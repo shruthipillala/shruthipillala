@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" width="30px" height="30px"/> Hi, I'm Shruthi Pillala
+  <img src="https://github.com/shruthipillala/shruthipillala/blob/main/wave.gif" width="30px" height="30px"/> Hi, I'm Shruthi Pillala
 </h1>
 
 
