@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="https://github.com/shruthipillala/shruthipillala/blob/main/wave.gif" width="30px" height="30px"/> Hi, I'm Shruthi Pillala
+  <img src="https://github.com/shruthipillala/shruthipillala/blob/main/wave.gif" width="30px" height="30px"/> 
+  <span>&nbsp;Hi, I'm Shruthi Pillala</span>
 </h1>
-
 
 
 A Software developer, enjoys building reliable backend services and user-friendly websites.
 
-##💡** How I Add Value to Your Team**
+
+## 💡 How I Add Value to Your Team 
 - 1.5+ years delivering robust backend solutions in fast-paced environments
 - Proficient in designing intuitive UIs using ReactJS, HTML, CSS, and JavaScript
 - Solid backend experience with Java, Spring Boot, and microservices architecture
