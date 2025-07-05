@@ -6,7 +6,7 @@
 
 A Software developer, enjoys building reliable backend services and user-friendly websites.
 
-💡 How I Add Value to Your Team
+##💡** How I Add Value to Your Team**
 - 1.5+ years delivering robust backend solutions in fast-paced environments
 - Proficient in designing intuitive UIs using ReactJS, HTML, CSS, and JavaScript
 - Solid backend experience with Java, Spring Boot, and microservices architecture
