@@ -4,7 +4,7 @@
 </h1>
 
 A Software developer, enjoys building reliable backend services and user-friendly websites.<br />
-Check my portfolio : [**click here to view**](https://shruthipillala.github.io/portfolio/)
+<b>Check my portfolio</b> : [**click here to view**](https://shruthipillala.github.io/portfolio/)
 
 ## 💡 How I Add Value to Your Team 
 - 1.5+ years delivering robust backend solutions in fast-paced environments
