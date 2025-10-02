@@ -19,9 +19,10 @@ A Software developer, enjoys building reliable backend services and user-friendl
 - Exploring cloud deployment strategies on AWS and GCP for full-stack apps
 
 
-### 📂 Projects
-- 🚀 [**Simon Game**](https://shruthipillala.github.io/simon-game/)  
-- 🔧 [**Portfolio Website**](https://shruthipillala.github.io/Personal-site/)  
+### 📂 Projects 
+-  [**DevMentor AI**](https://app.devmentorai.com)  
+-  [**Simon Game**](https://shruthipillala.github.io/simon-game/)  
+-  [**Portfolio Website**](https://shruthipillala.github.io/Personal-site/)  
 
 
 
@@ -40,6 +41,23 @@ A Software developer, enjoys building reliable backend services and user-friendl
 <p align="center">
   Java &nbsp;&nbsp; JavaScript &nbsp;&nbsp; Spring Boot &nbsp;&nbsp; ReactJS
 </p>
+
+<!-- Row 2 -->
+<p align="center">
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="50" height="50" title="AWS"/>
+  &nbsp;&nbsp;
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+  &nbsp;&nbsp;
+  <!-- Kubernetes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" title="Kubernetes"/>
+</p>
+
+<p align="center">
+  AWS &nbsp;&nbsp; Docker &nbsp;&nbsp; Kubernetes
+</p>
+
 
 <!-- Row 2 -->
 <p align="center">
