@@ -7,7 +7,7 @@ A Software developer, enjoys building reliable backend services and user-friendl
 <b>Check my portfolio</b> : [**click here to view**](https://shruthipillala.github.io/portfolio/)
 
 ## 💡 How I Add Value to Your Team 
-- 1.5+ years delivering robust backend solutions in fast-paced environments
+- 2.5+ years delivering robust backend solutions in fast-paced environments
 - Proficient in designing intuitive UIs using ReactJS, HTML, CSS, and JavaScript
 - Solid backend experience with Java, Spring Boot, and microservices architecture
 - Focused on delivering scalable, maintainable, and performance-optimized code
